@@ -1,0 +1,15 @@
+D:\PractiseTaukir\WorkForceManagementProject\WFM.Application\bin\Debug\net8.0\WFM.Application.deps.json
+D:\PractiseTaukir\WorkForceManagementProject\WFM.Application\bin\Debug\net8.0\WFM.Application.dll
+D:\PractiseTaukir\WorkForceManagementProject\WFM.Application\bin\Debug\net8.0\WFM.Application.pdb
+D:\PractiseTaukir\WorkForceManagementProject\WFM.Application\bin\Debug\net8.0\WFM.Domain.dll
+D:\PractiseTaukir\WorkForceManagementProject\WFM.Application\bin\Debug\net8.0\WFM.Domain.pdb
+D:\PractiseTaukir\WorkForceManagementProject\WFM.Application\obj\Debug\net8.0\WFM.Application.csproj.AssemblyReference.cache
+D:\PractiseTaukir\WorkForceManagementProject\WFM.Application\obj\Debug\net8.0\WFM.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\PractiseTaukir\WorkForceManagementProject\WFM.Application\obj\Debug\net8.0\WFM.Application.AssemblyInfoInputs.cache
+D:\PractiseTaukir\WorkForceManagementProject\WFM.Application\obj\Debug\net8.0\WFM.Application.AssemblyInfo.cs
+D:\PractiseTaukir\WorkForceManagementProject\WFM.Application\obj\Debug\net8.0\WFM.Application.csproj.CoreCompileInputs.cache
+D:\PractiseTaukir\WorkForceManagementProject\WFM.Application\obj\Debug\net8.0\WFM.Appl.D488A5E1.Up2Date
+D:\PractiseTaukir\WorkForceManagementProject\WFM.Application\obj\Debug\net8.0\WFM.Application.dll
+D:\PractiseTaukir\WorkForceManagementProject\WFM.Application\obj\Debug\net8.0\refint\WFM.Application.dll
+D:\PractiseTaukir\WorkForceManagementProject\WFM.Application\obj\Debug\net8.0\WFM.Application.pdb
+D:\PractiseTaukir\WorkForceManagementProject\WFM.Application\obj\Debug\net8.0\ref\WFM.Application.dll
