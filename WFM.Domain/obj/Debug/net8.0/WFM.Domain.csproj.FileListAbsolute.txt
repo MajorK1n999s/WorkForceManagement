@@ -1,0 +1,11 @@
+D:\PractiseTaukir\WorkForceManagementProject\WFM.Domain\bin\Debug\net8.0\WFM.Domain.deps.json
+D:\PractiseTaukir\WorkForceManagementProject\WFM.Domain\bin\Debug\net8.0\WFM.Domain.dll
+D:\PractiseTaukir\WorkForceManagementProject\WFM.Domain\bin\Debug\net8.0\WFM.Domain.pdb
+D:\PractiseTaukir\WorkForceManagementProject\WFM.Domain\obj\Debug\net8.0\WFM.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\PractiseTaukir\WorkForceManagementProject\WFM.Domain\obj\Debug\net8.0\WFM.Domain.AssemblyInfoInputs.cache
+D:\PractiseTaukir\WorkForceManagementProject\WFM.Domain\obj\Debug\net8.0\WFM.Domain.AssemblyInfo.cs
+D:\PractiseTaukir\WorkForceManagementProject\WFM.Domain\obj\Debug\net8.0\WFM.Domain.csproj.CoreCompileInputs.cache
+D:\PractiseTaukir\WorkForceManagementProject\WFM.Domain\obj\Debug\net8.0\WFM.Domain.dll
+D:\PractiseTaukir\WorkForceManagementProject\WFM.Domain\obj\Debug\net8.0\refint\WFM.Domain.dll
+D:\PractiseTaukir\WorkForceManagementProject\WFM.Domain\obj\Debug\net8.0\WFM.Domain.pdb
+D:\PractiseTaukir\WorkForceManagementProject\WFM.Domain\obj\Debug\net8.0\ref\WFM.Domain.dll
